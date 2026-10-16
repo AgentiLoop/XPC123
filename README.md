@@ -1,6 +1,6 @@
 # XPC123 - How to write a XPC Launch Daemon using Swift
 
-🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent. 🌐 [agentiloop.ai](https://agentiloop.ai)
 
 
 This repo includes an example XPC MachService that works between different apps.
